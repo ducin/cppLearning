@@ -6,14 +6,16 @@
 
 class ListTest : public CppUnit::TestFixture {
   CPPUNIT_TEST_SUITE( ListTest );
-  CPPUNIT_TEST( TestOperations );
+  CPPUNIT_TEST( TestOperationsInt );
+  CPPUNIT_TEST( TestOperationsDouble );
   CPPUNIT_TEST_SUITE_END();
 
  public:
   void setUp(void) {}
   void tearDown(void) {}
 
-  void TestOperations(void); 
+  void TestOperationsInt(void);
+  void TestOperationsDouble(void);
 };
 
 #endif
