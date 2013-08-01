@@ -2,6 +2,7 @@ language: cpp
 compiler:
   - gcc
 install:
+  - sudo apt-get install libcppunit-1.12-1
   - ./build.sh
 script:
   - ./build/runtest
