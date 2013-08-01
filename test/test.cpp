@@ -1,5 +1,5 @@
-#include "singly_linked_node.h"
-#include "singly_linked_list.h"
+#include "../src/structures/singly_linked_list/node.h"
+#include "../src/structures/singly_linked_list/list.h"
 #include "list_test.h"
 #include <cppunit/CompilerOutputter.h>
 #include <cppunit/extensions/TestFactoryRegistry.h>

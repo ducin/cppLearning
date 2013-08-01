@@ -1,8 +1,8 @@
 #include <cppunit/extensions/HelperMacros.h>
 #include "list_test.h"
 
-#include "singly_linked_node.h"
-#include "singly_linked_list.h"
+#include "../src/structures/singly_linked_list/node.h"
+#include "../src/structures/singly_linked_list/list.h"
 
 CPPUNIT_TEST_SUITE_REGISTRATION( ListTest );
 

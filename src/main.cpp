@@ -1,5 +1,5 @@
-#include "singly_linked_node.h"
-#include "singly_linked_list.h"
+#include "structures/singly_linked_list/node.h"
+#include "structures/singly_linked_list/list.h"
 
 #include <iostream>
 

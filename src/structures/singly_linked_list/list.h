@@ -1,7 +1,7 @@
 #ifndef SINGLY_LINKED_LIST_H
 #define SINGLY_LINKED_LIST_H
 
-#include "singly_linked_node.h"
+#include "node.h"
 
 #include <iostream>
 
