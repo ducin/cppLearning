@@ -1,5 +1,5 @@
-main
-test
+# IDE files & directories
+nbproject/
 
 # Compiled Object files
 *.slo
