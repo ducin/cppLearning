@@ -20,3 +20,11 @@ Do it on ubuntu with:
     sudo apt-get install libcppunit-dev libcppunit-1.12-1
 
 Then the -lcppunit flag will be added while compiling.
+
+travis
+------
+
+This project is continuously integrated with travis-ci.org:
+
+[![Build Status](https://travis-ci.org/tkoomzaaskz/cppLearning.png?branch=master)](https://travis-ci.org/tkoomzaaskz/cppLearning)
+
