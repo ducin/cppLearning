@@ -26,5 +26,5 @@ travis
 
 This project is continuously integrated with travis-ci.org:
 
-[![Build Status](https://travis-ci.org/tkoomzaaskz/cppLearning.png?branch=master)](https://travis-ci.org/tkoomzaaskz/cppLearning)
+[![Build Status](https://travis-ci.org/ducin/cppLearning.png?branch=master)](https://travis-ci.org/ducin/cppLearning)
 
